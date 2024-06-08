@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/wgcv/wgcv/assets/8989089/42766f31-99b2-40b1-ab2d-565d11bc0767" />
+   <img src="https://github.com/wgcv/wgcv/blob/main/welcome.gif" />
 
 </p>
 
