@@ -15,3 +15,7 @@ With over 8+ years of experience as software engineer with Python, Javascript an
  <img src="https://komarev.com/ghpvc/?username=wgcv&color=blueviolet&style=Plastic">
 
 
+### In my free time, I enjoy exploring the field of self-driving cars.
+<a href="https://github.com/wgcv/nd013-c1-vision-starter" target="_blank"><img width="1429" alt="Screenshot 2023-04-12 at 8 11 05 PM" src="https://github.com/wgcv/nd013-c1-vision-starter/raw/main/animation_compress.gif"></a>
+
+
