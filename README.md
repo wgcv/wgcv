@@ -37,7 +37,7 @@ With over 8+ years of experience as software engineer with Python, Javascript an
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=wgcv&show_icons=true&locale=en&rank_icon=github" alt="wgcv" /></p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wgcv&show_icons=true&locale=en&layout=compact&hide=Gettext%20Catalog" alt="wgcv"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wgcv&show_icons=true&locale=en&layout=compact&hide=Gettext%20Catalog,html,css,asp" alt="wgcv"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
