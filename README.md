@@ -12,7 +12,7 @@
 ##  About Me 🐱
 Empowering Tech Communities with talks, mentoring and workshops, I have impacted more than 10k+ developers in 5 countries in software development, Git, GitHub and Artificial Intelligence.
 
-With over 8+ years of experience as software engineer with Python, Javascript and Machine Learning. I pursued further education, obtaining a Nanodegree in Self-Driving Car Engineering. I am determined to keep growing as a software developer and driving the advancement of AI.
+With over 10+ years of experience as software engineer with Python, Javascript and Machine Learning. I pursued further education, obtaining a Nanodegree in Self-Driving Car Engineering. I am determined to keep growing as a software developer and driving the advancement of AI.
 
 - 📄 Know about my experiences [https://wgcv.me](https://wgcv.me)
 
