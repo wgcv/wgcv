@@ -9,7 +9,7 @@
 
 
 
-##  About Me 🐱
+##  About Me 
 Empowering Tech Communities with talks, mentoring and workshops, I have impacted more than 10k+ developers in 5 countries in software development, Git, GitHub and Artificial Intelligence.
 
 With over 10+ years of experience as software engineer with Python, Javascript and Machine Learning. I pursued further education, obtaining a Nanodegree in Self-Driving Car Engineering. I am determined to keep growing as a software developer and driving the advancement of AI.
@@ -19,13 +19,7 @@ With over 10+ years of experience as software engineer with Python, Javascript a
 - ⚡ Fun fact **I like to rock climb, scuba dive, and volunteer as a firefighter!**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wgcv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wgcv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wgcv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wgcv" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wgcvme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wgcvme" height="30" width="40" /></a>
-<a href="/https://wgcv.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://wgcv.me" height="30" width="40" /></a>
-</p>
+
 
 [![Check out my Hugging Face profile](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-me-on-HF-lg.svg
 )]([https://linkedin.com/in/wgcv](https://huggingface.co/wgcv))
